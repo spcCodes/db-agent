@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain-community
+langchainhub
+chromadb
+python-dotenv
+streamlit
+pyprojroot
+PyYAML
+SQLAlchemy
+pymysql
+mysql-connector-python
